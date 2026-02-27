@@ -7,7 +7,7 @@ This project addresses patient churn by identifying users inactive for 90+ days 
 I have documented the technical build in separate modules for clarity:
 [View SQL Logic](./sql/winback_logic.sql)Segmentation Logic
 Detailed script using LEFT JOIN on SFMC System Data Views to isolate lapsed subscribers.
-View HTML Email Template
+[View Email Template](./templates/email_template.html)
 Responsive, table-based email design featuring AMPscript for dynamic treatment offers.
 
 3. Journey Builder Architecture (The Process)
