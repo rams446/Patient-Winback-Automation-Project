@@ -20,5 +20,5 @@ Exit: Engagement splits remove patients from the journey once they click a "Book
 5. Quality Assurance (QA) Protocols
 To ensure 100% deployment accuracy, I implemented:
 Data Count Validation: Scripted checks to flag if the audience size exceeds 10% variance.
-Cross-Client Rendering: Verified layouts via Litmus for Outlook and Mobile.
+Cross-Client Rendering: Verified layouts for Outlook and Mobile.
 Subject Line A/B Testing: Deployed 10/10/80 tests to optimize Open Rates.
