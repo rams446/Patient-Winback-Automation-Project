@@ -28,7 +28,6 @@ To make the email "high-conversion," I used AMPscript to change the offer based 
   ELSE SET @Offer = "Free Health Consultation" 
   ENDIF 
 ]%%
-
 <h1>Hello %%FirstName%%, we miss you!</h1>
 <p>Because we care about your health, we have a special offer for you:</p>
 <h2>%%=v(@Offer)=%%</h2>
